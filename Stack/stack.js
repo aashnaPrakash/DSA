@@ -38,7 +38,6 @@ const main = () => {
     console.log(st.getMin());
     st.push(2);
     st.push(15);
-    
 }
 
 main();

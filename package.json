@@ -1,0 +1,29 @@
+{
+  "name": "interview-prep",
+  "version": "1.0.0",
+  "description": "Arrays and Strings ![image](https://user-images.githubusercontent.com/24544066/235352533-06dbcef3-501f-4efe-9473-5d0beb736fca.png)",
+  "main": "Linked_Lists.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bundle": "rollup -c",
+    "build": "npm run bundle"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aashnaPrakash/DSA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aashnaPrakash/DSA/issues"
+  },
+  "homepage": "https://github.com/aashnaPrakash/DSA#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-plugin-prettier": "^3.4.1",
+    "prettier": "^1.19.1",
+    "rollup": "^0.58.2",
+    "rollup-plugin-copy": "^0.2.3"
+  }
+}
